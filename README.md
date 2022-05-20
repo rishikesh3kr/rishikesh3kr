@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishikesh3kr
+- 👋 Hi, I’m Rishikesh Kumar, and am currently pursuing B.tech from GGSIPU
 - 👀 I’m interested in coding in layman's language
 - 🌱 I’m currently learning web development
 - 📫 How to reach me - find me by the name @rishikesh3kr on all social media platforms
