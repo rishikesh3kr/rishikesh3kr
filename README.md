@@ -1,4 +1,4 @@
-  <a href="https://app.daily.dev/rishikesh3kr"><img src="https://api.daily.dev/devcards/v2/u8yMgLSbdX8nVzhL5LtJP.png?r=1wt&type=default" width="356" alt="Rishikesh Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/rishikesh3kr"><img src="https://api.daily.dev/devcards/v2/u8yMgLSbdX8nVzhL5LtJP.png?type=default&r=lj0" width="356" alt="Rishikesh Kumar's Dev Card"/></a>
 
 - 👋 Hi, I’m Rishikesh Kumar, and am currently pursuing B.tech from GGSIPU
 - 👀 I’m interested in coding.
